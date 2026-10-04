@@ -1,0 +1,1 @@
+This repository contains the testing framework, test suites, and documentation for the Tricentis Shopping application. This project is dedicated to ensuring the quality, performance, and reliability of the core e-commerce functionalities.
